@@ -1,0 +1,20 @@
+/**********main.css**********/
+
+
+/**********elements**********/
+body {
+    background-color: #DCDCDC; 
+}
+
+ul {
+    list-style: none; 
+}
+
+nav a:hover {
+    color: #ffffff; 
+    background-color: #0000cd;
+}
+
+nav a:visited {
+    font-size: 21px; 
+}
